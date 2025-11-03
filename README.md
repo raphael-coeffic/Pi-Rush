@@ -8,7 +8,8 @@ Your goal : climb as high as possible, improve your memory, and beat your person
 ### Yanai Levy
 ### Raphael Coeffic
 
-📜 Project Files
-[Formal Elements Document](formal-elements.md)
+## 📜 Project Files
 
-“Pi Rush makes memorizing numbers a high-flying adventure!” 🚀
+### [Formal Elements Document](formal-elements.md)
+
+### “Pi Rush makes memorizing numbers a high-flying adventure!” 🚀
