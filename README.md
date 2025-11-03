@@ -12,5 +12,6 @@ Your goal : climb as high as possible, improve your memory, and beat your person
 
  - [Formal Elements Document](formal-elements.md)
 
-![Uploading image.png…]()
+<img width="372" height="497" alt="image" src="https://github.com/user-attachments/assets/bc4fa349-6460-4164-bd86-78c73447b813" />
+
 
