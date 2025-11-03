@@ -28,10 +28,11 @@ Interaction patterns: Solo gameplay; optional indirect competition via scores an
 ### 2. Goals
 
 Primary objective: Progress as far as possible by correctly landing on the next digit of Pi.
+When the game starts, a brief flash note shows the objective, telling the player to reach the highest score possible.
 
 ### 3. Processes
 
-Game start (first 30 sec): Player sees first circles, one of them marked “3”, the other 2 circles on the first level with random digits (wrong options). tutorial overlay shows how to sling the character to the next circle. Interaction via touch and hold.
+Game start (first 30 sec): Player greeted with flash note explaining goal, Player sees first circles, one of them marked “3”, the other 2 circles on the first level with random digits (wrong options). tutorial overlay shows how to sling the character to the next circle. Interaction via touch and hold.
 
 Core gameplay: Launch character from circle to circle, following Pi sequence. Each correct digit moves the player forward; mistakes send the player back to the start.
 
@@ -51,15 +52,15 @@ Rules taught via visual cues and immediate feedback on mistakes.
 
 ### 5. Resources
 
-Resources: Lives, score points, optional boosts (e.g., hints or slow-motion jumps).
+Resources: Additional Lives, Hints, Accessories.
 
-Utility: Lives allow retries; boosts help with difficult sequences.
+Utility: Lives allow retries; Hints help point at correct next digit.
 
 Acquisition: Earned through progression milestones.
 
 Scarcity: Limited boosts/lives encourage precision.
 
-Display: HUD shows lives, score, and active boosts.
+Display: HUD shows lives, current score, and highest score.
 
 ### 6. Conflicts
 
@@ -75,7 +76,7 @@ Game world is linear and vertically structured (ascending through digits).
 
 Circles are arranged in static positions; player cannot move outside the defined play area.
 
-Design principles: Clear visual guidance, incremental difficulty, meaningful progress, motivating feedback.
+Design principles: Clear visual guidance, incremental difficulty, meaningful progress.
 
 ### 8. Outcomes
 
@@ -87,13 +88,13 @@ Competitive but non-zero-sum — players aim to improve personal or leaderboard 
 
 ## Existing Games Review
 
-Search terms used: “Pi memorization game,” “math memory game,” “number sequence arcade game.”
+Search terms used: “Pi memorization game,” “math memory game,” “Character launcher game.”
 
 Similar games:
 
-Pi Tower – simple digit climbing game.
+Sling Kong - An animal launching game where you progress upwards.
 
-Digit Dash – sequence-based arcade.
+Pi Memorization - A simple typing based memorization game for Pi.
 
 Memory Tower – memorize numbers to progress.
 
