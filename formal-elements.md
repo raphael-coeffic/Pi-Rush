@@ -6,14 +6,14 @@ Sling, land, remember — climb the digits of Pi!
 
 Pi Jumper is a fast-paced memory and timing game where the player launches a character from circle to circle, each marked with a digit of Pi. To progress, the player must hit the correct next digit in sequence. One mistake sends the player back, encouraging focus, pattern recognition, and memory training — all while feeling like a simple, addictive arcade game.
 
-Platform:
+## Platform:
 
 Mobile
 
 Screenshot:
 
 ## Formal Elements:
-1. Players
+### 1. Players
 
 Target players: Ages 10+, anyone who enjoys casual arcade games or wants to improve memory.
 
@@ -21,11 +21,11 @@ Number of players: 1 player (with optional asynchronous leaderboard competition)
 
 Interaction patterns: Solo gameplay; optional indirect competition via scores and rankings.
 
-2. Goals
+### 2. Goals
 
 Primary objective: Progress as far as possible by correctly landing on the next digit of Pi.
 
-3. Processes
+### 3. Processes
 
 Game start (first 30 sec): Player sees first circle marked “3,” tutorial overlay shows how to sling the character to the next circle. Interaction via mouse click, touch, or keyboard.
 
@@ -35,7 +35,7 @@ Endgame: Player fails a jump or completes a target sequence. Score displayed, ra
 
 Learning integration: Memorization is directly linked to progression — players practice recalling digits naturally through gameplay, without explicit study.
 
-4. Rules
+### 4. Rules
 
 Only one correct digit per jump.
 
@@ -45,7 +45,7 @@ Player cannot jump infinitely; must aim within defined circle range.
 
 Rules taught via visual cues and immediate feedback on mistakes.
 
-5. Resources
+### 5. Resources
 
 Resources: Lives, score points, optional boosts (e.g., hints or slow-motion jumps).
 
@@ -57,7 +57,7 @@ Scarcity: Limited boosts/lives encourage precision.
 
 Display: HUD shows lives, score, and active boosts.
 
-6. Conflicts
+### 6. Conflicts
 
 Player vs system: Timing and memory challenge of choosing the next correct digit.
 
@@ -65,7 +65,7 @@ Player vs player: Leaderboards for score comparison.
 
 Player vs self: Focus and recall under increasing sequence length and pressure.
 
-7. Boundaries
+### 7. Boundaries
 
 Game world is linear and vertically structured (ascending through digits).
 
@@ -73,7 +73,7 @@ Circles are arranged in static positions; player cannot move outside the defined
 
 Design principles: Clear visual guidance, incremental difficulty, meaningful progress, motivating feedback.
 
-8. Outcomes
+### 8. Outcomes
 
 Outcome measured by score and highest sequence reached.
 
