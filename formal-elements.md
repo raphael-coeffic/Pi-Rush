@@ -93,14 +93,20 @@ Search terms used: “Pi memorization game,” “math memory game,” “Charac
 ## Similar games:
 
 ## Sling Kong - An animal launching game where you progress upwards.
+
 ![ImageSlingKong](https://github.com/user-attachments/assets/58d90137-aad0-4d87-afca-d5e0cd406ea2)
 
 
 ##Pi Memorization - A simple typing based memorization game for Pi.
+
 ![ImagePiWebsite](https://github.com/user-attachments/assets/d8bedadd-a7cb-404d-ac09-8545bbb778e7)
 
 
 
-## Another game fegsregssregsre--------feds-fge-dg
+## How Fast Can You Type Pi
+
+<img width="960" height="541" alt="image" src="https://github.com/user-attachments/assets/4d0137df-ee2e-47ca-ab3b-b6db68ad0fd4" />
+
+
 
 Our difference: Pi Jumper combines timed action, skill-based slinging, and visual target landing with memorization, making learning an invisible, fun part of progression. Emphasis on movement + memory integration sets it apart from purely static or click-based memorization games.
