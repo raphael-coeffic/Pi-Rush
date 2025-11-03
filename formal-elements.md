@@ -97,7 +97,7 @@ Search terms used: “Pi memorization game,” “math memory game,” “Charac
 ![ImageSlingKong](https://github.com/user-attachments/assets/58d90137-aad0-4d87-afca-d5e0cd406ea2)
 
 
-##Pi Memorization - A simple typing based memorization game for Pi.
+## Pi Memorization - A simple typing based memorization game for Pi.
 
 ![ImagePiWebsite](https://github.com/user-attachments/assets/d8bedadd-a7cb-404d-ac09-8545bbb778e7)
 
