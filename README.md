@@ -5,8 +5,8 @@ Pi Rush is a fast-paced, addictive memory and timing game where you sling your c
 Your goal : climb as high as possible, improve your memory, and beat your personal or friends’ high scores. Quick thinking, precision, and focus turn memorizing numbers into a thrilling arcade challenge.
 
 ## 👥 Team Members
-### Yanai Levy
-### Raphael Coeffic
+ Yanai Levy
+ Raphael Coeffic
 
 ## 📜 Project Files
 
